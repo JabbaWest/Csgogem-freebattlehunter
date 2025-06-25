@@ -8,4 +8,9 @@ Step-by-step guide.
 4. Once you have done that, Click "Files -> Save" Or CTRL(or CMD) + S
 5. Now you can go to https://csgogem.com/games/battles - once youre her, the bot are monitoring. 
 
-Keep the tab visible, and keep it open. You can play as normal, Script is only monitoring for free battles on https://csgogem.com/games/battles
+Keep the tab visible, and keep it open. You can play as normal, Script is only monitoring for free battles on https://csgogem.com/games/battles - Just leave it on, and the bot is always ready. 
+
+
+If you minimize, the window bot will react slower, and you may need to refresh site once in a while. 
+
+Bot is logging monitoring in the console log. 
